@@ -1,6 +1,8 @@
 
 public class Cliente {
 
+	//Introducimos el cliente
+	
   private String CIF, datosPersonales, cuentaCorriente;
 
 	
