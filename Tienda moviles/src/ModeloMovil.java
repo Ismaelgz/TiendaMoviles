@@ -1,5 +1,5 @@
 
-// POJO
+// Introducimos el modelo del movil que hay que reparar y devolver.
 public class ModeloMovil {
 	private String codigoModelo, caracteristicas;
 	private float precio;
