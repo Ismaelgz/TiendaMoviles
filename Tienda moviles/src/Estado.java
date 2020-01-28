@@ -1,4 +1,4 @@
 
-public class Estado {
-
+public enum Estado {
+	produciendose,discontinuado;
 }
